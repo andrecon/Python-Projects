@@ -1,3 +1,4 @@
+# Run on python3
 import sys, time
 
 def progressBar(count, total, suffix=''):
